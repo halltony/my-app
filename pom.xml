@@ -16,7 +16,7 @@
   </dependencies>
   <scm>
     <developerConnection>scm:git:git@github.com:halltony/my-app.git</developerConnection>
-    <tag>my-app-1.0</tag>
+    <tag>my-app-2.0</tag>
   </scm>
   <repositories>
     <repository>
